@@ -27,7 +27,7 @@
     "fontawesome": "^5.6.3",
     "jquery": "^3.6.0",
     "jqueryui": "^1.11.1",
-    "postcss": "^8.3.6",
+    "postcss": "^8.4.31",
     "postcss-import": "^14.0.2",
     "postcss-loader": "^6.1.0",
     "postcss-scss": "^4.0.0",
